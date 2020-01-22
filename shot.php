@@ -2,7 +2,7 @@
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 echo color("green"," =================================== \n");
-echo color("green"," Claim Voucher \n");
+echo color("green"," Claim Voucher \n")
 echo color("green"," Auto Create & Redeem Voucher \n");
 echo color("green"," =================================== \n");
 echo " Created by : Vino AZR \n";
